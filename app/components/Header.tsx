@@ -1,5 +1,4 @@
 import React from "react";
-// import { ChevronDown } from "lucide-react";
 
 const Header = () => {
   return (
@@ -19,10 +18,7 @@ const Header = () => {
           />
         </svg>
       </button>
-      <span className="text-gray-500 text-xl d-flex">
-        👤
-        {/* <ChevronDown className="h-4 w-4 text-gray-400" /> */}
-      </span>
+      <span className="text-gray-500 text-xl d-flex">👤</span>
     </header>
   );
 };
