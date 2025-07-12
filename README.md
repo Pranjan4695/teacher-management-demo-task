@@ -2,12 +2,12 @@
 
 This project is a modern teacher management interface aimed at delivering a visually appealing, responsive, and user-friendly experience. It follows modern UI/UX practices and utilizes your own custom layout and components to enhance the user interface beyond the current design.
 
-## Getting Started
+# Getting Started
 
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/teacher-management-demo-task.git
+git clone https://github.com/Pranjan4695/teacher-management-demo-task.git
 cd teacher-management-demo-task
 
 ```
@@ -66,6 +66,17 @@ npm run start
 This project is deployed on Vercel. For more details, visit:</br>[teacher-management-demo-task](https://teacher-management-demo-task.vercel.app/)
 
 Vercel is the easiest way to deploy Next.js apps, directly from the creators of the framework. [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+
+# Demo Video 
+Check out the video walkthrough of the Teacher Management Interface:<br/>
+👉  [Watch Demo Video](https://www.awesomescreenshot.com/video/41960476?key=90e2879e432046134e83b87e08cbf104)
+
+## Google Drive Video Link
+👉 [Watch Demo Video](https://drive.google.com/file/d/19gyD-hh6wjJF0brKBCd4JYDE0PJnS0mF/view?usp=sharing)
+
+
+
+This video demonstrates the main features, layout, and user experience of the modernized interface.
 
 
 ## Learn More
